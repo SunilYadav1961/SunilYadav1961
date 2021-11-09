@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sunil Yadav</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunilyadav1961" alt="sunilyadav1961" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunilyadav1961&margin-w=15&margin-h=15&column=4&theme=juicyfresh" alt="sunilyadav1961" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_thesunilyadav" target="blank"><img src="https://img.shields.io/twitter/follow/_thesunilyadav?logo=twitter&style=for-the-badge" alt="_thesunilyadav" /></a> </p>
 
@@ -62,8 +62,8 @@
   </p>
 
 <h3 align="left"> Statistics :</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilyadav1961&show_icons=true&locale=en&layout=compact" alt="sunilyadav1961" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilyadav1961&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10" alt="sunilyadav1961" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilyadav1961&show_icons=true&locale=en" alt="sunilyadav1961" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilyadav1961&show_icons=true&locale=en&count_private=true&theme=radical" alt="sunilyadav1961" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunilyadav1961&" alt="sunilyadav1961" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunilyadav1961&theme=merko" alt="sunilyadav1961" /></p>
