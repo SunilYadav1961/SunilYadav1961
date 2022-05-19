@@ -62,8 +62,8 @@
   </p>
 
 <h3 align="left"> Statistics :</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesunilyadav&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10" alt="sunilyadav1961" /></p>
+<p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=thesunilyadav&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10" alt="sunilyadav1961" /></p>
 
-<p>&nbsp;<img align="center" style="margin-top:15px;" src="https://github-readme-stats.vercel.app/api?username=thesunilyadav&show_icons=true&locale=en&count_private=true&theme=radical" alt="sunilyadav1961" /></p>
+<p>&nbsp;<img align="center" style="margin-top:15px;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thesunilyadav&show_icons=true&locale=en&count_private=true&theme=radical" alt="sunilyadav1961" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesunilyadav&theme=merko" alt="sunilyadav1961" /></p>
