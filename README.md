@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sunil Yadav</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">Hello 👋, I'm Sunil Yadav</h1>
+<h3 align="center">A passionate self-taught full stack developer from India</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesunilyadav&margin-w=15&margin-h=15&column=4&theme=juicyfresh" alt="sunilyadav1961" /></a> </p>
 
